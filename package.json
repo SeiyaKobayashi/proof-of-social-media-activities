@@ -1,0 +1,13 @@
+{
+  "name": "proof-of-social-media-activities",
+  "version": "1.0.0",
+  "description": "Zero-knowledge app that proves social media activities in a trustless and privacy-preserving manner.",
+  "main": "index.js",
+  "repository": "https://github.com/SeiyaKobayashi/proof-of-social-media-activities.git",
+  "author": "SeiyaKobayashi <eng@seiya.work>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "zkapp-cli": "0.18.0"
+  }
+}
